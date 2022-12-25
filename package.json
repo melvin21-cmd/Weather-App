@@ -13,11 +13,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/melvin21-cmd/Weather-App.git"
+    "url": "git+https://github.com/melvin21-cmd/Weather-Application.git"
   },
   "bugs": {
-    "url": "https://github.com/melvin21-cmd/Weather-App/issues"
+    "url": "https://github.com/melvin21-cmd/Weather-Application/issues"
   },
-  "homepage": "https://github.com/melvin21-cmd/Weather-App#readme",
+  "homepage": "https://github.com/melvin21-cmd/Weather-Application#readme",
   "description": ""
 }
